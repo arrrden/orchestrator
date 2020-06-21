@@ -7,8 +7,6 @@ on:
 
 jobs:
   build-and-publish:
-    env:
-      GOPATH: ${{ github.workspace }}
     runs-on: ubuntu-latest
     steps:
     # check out project source code
