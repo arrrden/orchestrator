@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/ardenj/orchestrator/handlers"
+	"github.com/arrrden/orchestrator/handlers"
 )
 
 var PORT = "7070"
